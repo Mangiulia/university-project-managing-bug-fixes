@@ -35,5 +35,5 @@ The back-end is responsible for managing bug fixes and handling operations relat
 # Conclusion
 By addressing and fixing bugs in each section, the goal is to improve the overall quality and stability of the application. The project emphasizes the importance of effective communication and collaboration within development teams to manage software bugs efficiently.
 
-# Demonstration
+
 
